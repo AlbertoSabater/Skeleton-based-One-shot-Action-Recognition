@@ -1,6 +1,6 @@
 # Skeleton-based One-shot Action Recognition
 
-This repository contains the code to train and evaluate the work presented in the article [One-shot action recognition in challenging therapy scenarios](https://arxiv.org/submit/3677769).
+This repository contains the code to train and evaluate the work presented in the article [One-shot action recognition in challenging therapy scenarios](https://arxiv.org/abs/2102.08997).
 
 ## Download pre-trained models
 
