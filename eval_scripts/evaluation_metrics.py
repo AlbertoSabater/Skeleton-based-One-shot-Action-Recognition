@@ -22,7 +22,7 @@ from tqdm import tqdm
 
 import prediction_utils
 from data_generator import load_scaler, get_pose_data_v2, average_wrong_frame_skels
-from eval_utils import print_3d_skeleton, get_distance
+from eval_scripts.eval_utils import print_3d_skeleton, get_distance
 
 from tensorboard.backend.event_processing import event_accumulator
 import tensorflow as tf

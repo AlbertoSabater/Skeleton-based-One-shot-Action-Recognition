@@ -192,7 +192,7 @@ if __name__ == '__main__':
             main(model, True, iterator, max_seq_len, args.plot_results)
             
     elif args.use_therapies:
-        raw_data_path = '/mnt/hdd/datasets_hdd/data_laura/one_shot_labels/'
+        raw_data_path = './datasets/therapies_dataset/'
         video_skels = pickle.load(open(os.path.join(raw_data_path, 'video_skels_v2.pckl'), 'rb'))
         video_skels = { k:v[2] for k,v in video_skels.items() }
         
