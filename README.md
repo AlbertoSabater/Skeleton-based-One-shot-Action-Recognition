@@ -4,6 +4,18 @@
 
 This repository contains the code to train and evaluate the work presented in the article [One-shot action recognition in challenging therapy scenarios](https://arxiv.org/abs/2102.08997).
 
+```
+@InProceedings{Sabater_2021_CVPR,
+    author    = {Sabater, Alberto and Santos, Laura and Santos-Victor, Jose and Bernardino, Alexandre and Montesano, Luis and Murillo, Ana C.},
+    title     = {One-Shot Action Recognition in Challenging Therapy Scenarios},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2021},
+    pages     = {2777-2785}
+}
+```
+
+
 ## Download pre-trained models
 
 Download the desired models used in the paper and store them under `./pretrained_models/`.
