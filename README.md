@@ -20,8 +20,8 @@ This repository contains the code to train and evaluate the work presented in th
 
 Download the desired models used in the paper and store them under `./pretrained_models/`.
 
-* [NTU Bnechmark model](https://drive.google.com/file/d/18tif1Hj0ayXdnsbMocjDXCbKgWLAPPn7/view?usp=sharing)
-* [Therapies model](https://drive.google.com/file/d/1uMO-AMU6D68lTj8z2sn9aQWRb7O7oX0C/view?usp=sharing)
+* [NTU Bnechmark model](https://unizares-my.sharepoint.com/:u:/g/personal/asabater_unizar_es/EamXVPDPFtFKtn1z26n5qhMBRMGWS8mDSXL-wfORQoHdLQ?e=YgLlcD)
+* [Therapies model](https://unizares-my.sharepoint.com/:u:/g/personal/asabater_unizar_es/EVeQYXBP5dZNv0pD3-2485MB47RrMz7tA5KnfdJVnJLCqA?e=mNjK7C)
 
 
 ## Datasets
