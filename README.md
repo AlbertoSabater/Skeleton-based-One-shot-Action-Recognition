@@ -26,7 +26,7 @@ Download the desired models used in the paper and store them under `./pretrained
 
 ## Datasets
 
-[NTU-120 dataset](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp) must be downloaded and stored under `./datasets/NTU-120/raw_npy/`.
+[NTU-120 dataset](https://rose1.ntu.edu.sg/dataset/actionRecognition/) must be downloaded and stored under `./datasets/NTU-120/raw_npy/`.
 
 [Therapy dataset](https://doi.org/10.5281/zenodo.4700564) (pickle files) must be downloaded and stored under `./datasets/therapies_dataset/`.
 
