@@ -2,6 +2,8 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/one-shot-action-recognition-towards-novel/one-shot-3d-action-recognition-on-ntu-rgbd)](https://paperswithcode.com/sota/one-shot-3d-action-recognition-on-ntu-rgbd?p=one-shot-action-recognition-towards-novel)
 
+[[Paper](https://arxiv.org/abs/2102.08997)] [[Supplementary video](https://drive.google.com/file/d/1NmY0vw78YwJ0ciKlUKwGU6Wrl9XVkTbO/view?usp=sharing)]
+
 This repository contains the code to train and evaluate the work presented in the article [One-shot action recognition in challenging therapy scenarios](https://arxiv.org/abs/2102.08997).
 
 ```
